@@ -5,4 +5,4 @@ Pratique Git
 
 Hello there stranger
 Hello again 
-<img> "href=/
+![Jeannie Beanninie] (https://github.com/femknight/Git-Pratique/blob/main/Jeanne.png)
